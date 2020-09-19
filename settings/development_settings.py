@@ -58,7 +58,7 @@ MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
-ROOT_URLCONF = 'mambilladb.urls'
+ROOT_URLCONF = 'easyhealth.urls'
 
 TEMPLATES = [
     {
